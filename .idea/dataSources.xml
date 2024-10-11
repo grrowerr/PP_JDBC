@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="katadb@localhost" uuid="0b299a83-2772-4669-8dcf-9e820f4e4384">
+    <data-source source="LOCAL" name="katadb@localhost" uuid="14e85640-fba5-4f12-b917-a192b3bb4a96">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
